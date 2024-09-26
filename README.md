@@ -12,7 +12,7 @@ Skills: SW Development & Programming / Game Development / AI Developer
 - ⚡ Fun fact: I wasn't very good at high school, but after finding what I love, learning became fun. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EliGreenblatt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eli-greenblatt/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EliGreenblatt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/EliGreenblatt/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EliGreenblatt)](https://github.com/ryo-ma/github-profile-trophy)
 
