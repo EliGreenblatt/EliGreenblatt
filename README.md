@@ -11,7 +11,7 @@ I'm passionate about expanding my knowledge and constantly eager to embrace new 
 - **Software Development**: Proficient in developing scalable software solutions and APIs.
 - **Game Development**: Experience in Unity, focusing on mechanics and user experience.
 - **AI Development**: Strong background in machine learning, deep learning and reinforcement learning.
-- 
+  
 ### Libraries
 - **TensorFlow**: Used for developing machine learning models, especially in gaming applications.
 - **NumPy & Pandas**: Utilized for data manipulation and analysis in AI projects.
@@ -25,6 +25,10 @@ C++ / C / C# / Python
 
 - **[Genre Detection 5 way](https://github.com/EliGreenblatt/Genre-Detection)**: Built an AI model to detect different music genres using five machine learning algorithms. This project involved analyzing and processing audio data and applying various classification methods to achieve good results.
 
+- Many more projects to be found on my github page.
+
+
+### Current Work
 - 🔭 I’m currently working on AI in games 
 - 💬 Ask me about Games and AI! 
 - ⚡ Fun fact: I wasn't very good at high school, but after finding what I love, learning became fun. 
