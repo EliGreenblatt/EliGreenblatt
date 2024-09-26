@@ -5,6 +5,8 @@
 I'm Eli from Israel, I enjoy developing AI models, Games and software.
 I'm passionate about expanding my knowledge and constantly eager to embrace new challenges, whether it’s diving into unfamiliar technologies or honing my existing skills
 
+
+
 Skills: SW Development & Programming / Game Development / AI Developer
 
 Libraries: TensorFlow / NumPy / Pandas / Matplotlib
