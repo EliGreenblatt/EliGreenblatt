@@ -1,6 +1,5 @@
 Hi there 👋, Eli Greenblatt
 Passionate about AI, Software and Game Development
-Passionate about AI, Software and Game Development
 
 I’m Eli from Israel, I enjoy developing AI models, Games and software.
 I also like learning new things and am always up to being taught.
