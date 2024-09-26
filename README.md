@@ -31,7 +31,8 @@ C++ / C / C# / Python
 ### Current Work
 - 🔭 I’m currently working on AI in games 
 - 💬 Ask me about Games and AI! 
-- ⚡ Fun fact: I wasn't very good at learning in high school, but after finding what I love, learning became fun. 
+- ⚡ Fun fact: I wasn't very good at learning in high school, but after finding what I love, learning became fun.
+- (Game Controller) I already have a lot of games shipped that you can play, press [here](https://sharemygame.com/@Big_e)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EliGreenblatt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eli-greenblatt-156658207//)  
