@@ -19,6 +19,11 @@ I'm passionate about expanding my knowledge and constantly eager to embrace new 
 ### Languages
 C++ / C / C# / Python
 
+### Soft Skills
+- **Friendly**: I believe in fostering a positive and approachable atmosphere in any team setting.
+- **Teamwork**: Enjoy collaborating with others and valuing diverse perspectives to achieve common goals.
+- **Responsibility**: Take ownership of my work and ensure tasks are completed to the highest standard.
+
 
 ### Noteable Projects
 - **[RPG 3D Game](https://github.com/GameCourse2024/Treasure-Hunter)**: Led a development team to create a 3D RPG game that won first place in a competition. This project involved designing gameplay mechanics, creating engaging stories, and implementing visuals to improve the player experience.
@@ -32,7 +37,7 @@ C++ / C / C# / Python
 - 🔭 I’m currently working on AI in games 
 - 💬 Ask me about Games and AI! 
 - ⚡ Fun fact: I wasn't very good at learning in high school, but after finding what I love, learning became fun.
-- 🎮 I already have a lot of games shipped that you can play, press [here](https://sharemygame.com/@Big_e)
+- 🎮 I already have a lot of games shipped that you can play, press [here](https://sharemygame.com/@Big_e) to play.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EliGreenblatt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eli-greenblatt-156658207//)  
