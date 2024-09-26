@@ -16,5 +16,3 @@ Skills: SW Development & Programming / Game Development / AI Developer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EliGreenblatt)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/EliGreenblatt)  
-
