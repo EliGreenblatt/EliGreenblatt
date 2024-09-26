@@ -21,9 +21,9 @@ C++ / C / C# / Python
 
 
 ### Noteable Projects
--**[RPG 3D Game](https://github.com/GameCourse2024/Treasure-Hunter)**: Led a development team to create a 3D RPG game that won first place in a competition. This project involved designing gameplay mechanics, creating engaging stories, and implementing visuals to improve the player experience.
+- **[RPG 3D Game](https://github.com/GameCourse2024/Treasure-Hunter)**: Led a development team to create a 3D RPG game that won first place in a competition. This project involved designing gameplay mechanics, creating engaging stories, and implementing visuals to improve the player experience.
 
--**[Genre Detection 5 way](https://github.com/EliGreenblatt/Genre-Detection)**: Built an AI model to detect different music genres using five machine learning algorithms. This project involved analyzing and processing audio data and applying various classification methods to achieve good results.
+- **[Genre Detection 5 way](https://github.com/EliGreenblatt/Genre-Detection)**: Built an AI model to detect different music genres using five machine learning algorithms. This project involved analyzing and processing audio data and applying various classification methods to achieve good results.
 
 - 🔭 I’m currently working on AI in games 
 - 💬 Ask me about Games and AI! 
